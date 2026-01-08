@@ -71,10 +71,10 @@ export const MILESTONES = [
 export const BROTHER_MESSAGE = {
   greeting: "Dear Didi and Dadabhai,",
   paragraphs: [
-        "Four years ago, I witnessed the beginning of something truly special — a journey that came with surprises, endless laughter, a few legendary disagreements, and a love that simply refused to give up.",
+        "Four years ago, I witnessed the beginning of something truly special a journey that came with surprises, endless laughter, a few legendary disagreements, and a love that simply refused to give up.",
         "Your marriage hasn’t been about perfection; it’s been about patience, understanding, and choosing each other even after the fights, the debates, and the “I’m right, no I’m right” moments 😄. From laughing over the smallest things to standing strong during challenging days, you’ve shown what real partnership looks like.",
-        "Your life together is proof that love isn’t just about romance — it’s about teamwork, compromise, shared snacks, stolen smiles, and occasionally forgiving each other for being annoying (very important skill 😉).",
-        "As you celebrate four incredible years, I wish you many more filled with surprises, happiness, inside jokes, adventures, and yes — a few harmless arguments to keep things interesting. May your love continue to grow stronger, deeper, and funnier with each passing year.",
+        "Your life together is proof that love isn’t just about romance it’s about teamwork, compromise, shared snacks, stolen smiles, and occasionally forgiving each other for being annoying (very important skill 😉).",
+        "As you celebrate four incredible years, I wish you many more filled with surprises, happiness, inside jokes, adventures, and yes a few harmless arguments to keep things interesting. May your love continue to grow stronger, deeper, and funnier with each passing year.",
         "Happy 4th Anniversary to a couple who proves that love, laughter, and a little madness make the best marriage ❤️🥂",
         "— With love, from someone who has enjoyed watching it all unfold 💫"
     ],
