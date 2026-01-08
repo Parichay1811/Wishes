@@ -1,0 +1,60 @@
+.countdown-section {
+  position: relative;
+  z-index: 2;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: #d63864;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+.countdown-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.countdown-card {
+  background: white;
+  padding: 30px 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(214, 56, 100, 0.15);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.countdown-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #d63864;
+  line-height: 1;
+}
+
+.countdown-unit {
+  font-size: 0.9rem;
+  color: #6d4c41;
+  text-transform: capitalize;
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .countdown-section {
+    padding: 40px 20px;
+  }
+
+  .countdown-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .countdown-value {
+    font-size: 2rem;
+  }
+}
