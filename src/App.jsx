@@ -7,11 +7,13 @@ import Message from './components/Message';
 import FloatingHearts from './components/FloatingHearts';
 import Footer from './components/Footer';
 import './styles/App.css';
+import MusicPlayer from './components/MusicPlayer';
 
 function App() {
   return (
     <div className="anniversary-container">
       <FloatingHearts />
+      <MusicPlayer/>
       <Hero />
       <Countdown />
       <PhotoSlider />

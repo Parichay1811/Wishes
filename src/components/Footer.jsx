@@ -22,7 +22,7 @@ const Footer = () => {
           ease: "easeInOut"
         }}
       >
-        Made with ❤️ by your loving brother
+        Made with ❤️ by Rick 😎
       </motion.p>
     </motion.footer>
   );
