@@ -23,7 +23,8 @@
     border-radius: 30px;
     text-align: center;
     width: 100%;
-    max-width: 600px;
+    max-width: 800px;
+    height: 70%;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
     overflow: hidden;
     backdrop-filter: blur(10px);
@@ -300,6 +301,11 @@
   }
   .welcome-card h2{
     font-size: 40px;
+  }
+  .welcome-card{
+    background-image: url("/responsive.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   .music-status {
