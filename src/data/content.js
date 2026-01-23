@@ -38,7 +38,7 @@ export const PHOTOS = [
   {
     id: 7,
     imageUrl: '/baby.png',
-    caption: 'Fifth Year what waiting...?',
+    caption: 'Fifth Year what is waiting...?',
     memory: 'Five years in, still building dreams… now we all are waiting for the tiniest teammate 👶😄'
   }
 ];
@@ -72,10 +72,10 @@ export const BROTHER_MESSAGE = {
   greeting: "Dear Didi and Dadabhai,",
   paragraphs: [
   "Four years ago began a beautiful journey filled with love, laughter, and a few legendary disagreements.",
-  "Your marriage is about patience, teamwork, inside jokes, and choosing each other every day — even after the “I’m right” moments 😄.",
+  "Your marriage is about patience, teamwork, inside jokes, and choosing each other every day even after the “I’m right” moments 😄.",
   "Four years strong and still growing, laughing, and dreaming together.",
   "Happy 4th Anniversary to a couple who proves that love, laughter, and a little madness make the perfect marriage ❤️🥂",
-  "— With love, from someone who’s loved watching it all 💫"
+  "With love, from someone who’s loved watching it all 💫"
 ],
 
 
